@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on front-end
 - 📫 How to reach me gulammurtaza94342@gmail.com
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am 24
 
 <!---
 Mojammel24/Mojammel24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
